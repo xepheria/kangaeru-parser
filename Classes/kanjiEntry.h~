@@ -1,0 +1,20 @@
+#ifndef __KANJIENTRY_H__
+#define __KANJIENTRY_H__
+#include "cocos2d.h"
+
+using namespace cocos2d;
+
+class KanjiEntry : public Object {
+    public:
+        CC_SYNTHESIZE(String, kanji, Kanji);
+        //CC_SYNTHESIZE(Integer, grade, Grade);
+        CC_SYNTHESIZE(String, onyomi, Onyomi);
+        CC_SYNTHESIZE(String, kunyomi, Kunyomi);
+        CC_SYNTHESIZE(String, definition, Def);
+        CC_SYNTHESIZE(String, picture, Picture);
+        CC_SYNTHESIZE(String, compounds, Compounds);
+        
+        KanjiEntry(void);
+        ~KanjiEntry(void);
+};
+#endif // __KANJIENTRY_H__

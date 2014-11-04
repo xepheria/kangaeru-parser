@@ -1,0 +1,1143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data-set xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<entry>
+		<Kanji>一</Kanji>
+		<Grade>X</Grade>
+		<Onyomi>イチ, イツ, ヒト</Onyomi>
+		<Kunyomi>ひと-</Kunyomi>
+		<Definition>one</Definition>
+		<PictureURL>http://pixabay.com/en/number-1-alphabet-abc-gold-146021/</PictureURL>
+		<Compounds>１．一人, ひとり；２．一年,　いちねん；３．一時,　いちじ</Compounds>
+	</entry>
+	<entry>
+		<Kanji>二</Kanji>
+		<Grade>X</Grade>
+		<Onyomi>ニ, ジ, フタタ</Onyomi>
+		<Kunyomi>ふた, ふた.つ</Kunyomi>
+		<Definition>two</Definition>
+		<PictureURL>http://pixabay.com/en/number-2-alphabet-abc-gold-146022/</PictureURL>
+		<Compounds>１．二人,　ふたり；2．二子,　ふたご</Compounds>
+	</entry>
+	<entry>
+		<Kanji>三</Kanji>
+		<Grade>X</Grade>
+		<Onyomi>サン, ゾウ, ミッ</Onyomi>
+		<Kunyomi>み, み.つ</Kunyomi>
+		<Definition>three</Definition>
+		<PictureURL>http://pixabay.com/en/three-timeline-display-panel-number-146658/</PictureURL>
+		<Compounds>１．三日月,　みかずき</Compounds>
+	</entry>
+	<entry>
+		<Kanji>四</Kanji>
+		<Grade>X</Grade>
+		<Onyomi>シ, ヨ</Onyomi>
+		<Kunyomi>よ よ.つ, よっ.つ</Kunyomi>
+		<Definition>four</Definition>
+		<PictureURL>http://pixabay.com/en/counting-four-math-numbers-149954/</PictureURL>
+	</entry>
+	<entry>
+		<Kanji>五</Kanji>
+		<Grade>X</Grade>
+		<Onyomi>ゴ, イツ</Onyomi>
+		<Kunyomi>いつ</Kunyomi>
+		<Definition>five</Definition>
+		<PictureURL>http://pixabay.com/en/creation-day-five-religion-25828/</PictureURL>
+		<Compounds>１．五分,　ごぶ</Compounds>
+	</entry>
+	<entry>
+		<Kanji>六</Kanji>
+		<Grade>X</Grade>
+		<Onyomi>ロク, リク, ム</Onyomi>
+		<Kunyomi>む, む.つ, むっ.つ</Kunyomi>
+		<Definition>six</Definition>
+		<PictureURL>http://pixabay.com/en/counting-math-numbers-numerals-six-149956/</PictureURL>
+	</entry>
+	<entry>
+		<Kanji>七</Kanji>
+		<Grade>X</Grade>
+		<Onyomi>シチ, ナ</Onyomi>
+		<Kunyomi>なな, なな.つ</Kunyomi>
+		<Definition>seven</Definition>
+		<PictureURL>http://pixabay.com/en/trail-signpost-number-seven-mark-306638/</PictureURL>
+		<Compounds>*</Compounds>
+	</entry>
+	<entry>
+		<Kanji>八</Kanji>
+		<Grade>X</Grade>
+		<Onyomi>ハチ, ヨ</Onyomi>
+		<Kunyomi>や, や.つ, やっ.つ</Kunyomi>
+		<Definition>eight</Definition>
+		<PictureURL>http://pixabay.com/en/number-8-alphabet-abc-gold-146028/</PictureURL>
+	</entry>
+	<entry>
+		<Kanji>九</Kanji>
+		<Grade>X</Grade>
+		<Onyomi>キュウ, ク, ココノ</Onyomi>
+		<Kunyomi>ここの</Kunyomi>
+		<Definition>nine</Definition>
+		<PictureURL>http://pixabay.com/en/counting-math-nine-numbers-149959/</PictureURL>
+		<Compounds>*</Compounds>
+	</entry>
+	<entry>
+		<Kanji>十</Kanji>
+		<Grade>X</Grade>
+		<Onyomi>ジュウ, ジッ, ジュッ</Onyomi>
+		<Kunyomi>とお</Kunyomi>
+		<Definition>ten</Definition>
+		<PictureURL>http://pixabay.com/en/number-ad-yellow-color-asphalt-437928/</PictureURL>
+	</entry>
+	<entry>
+		<Kanji>百</Kanji>
+		<Grade>X</Grade>
+		<Onyomi>ヒャク, ビャク</Onyomi>
+		<Kunyomi>もも</Kunyomi>
+		<Definition>hundred</Definition>
+		<PictureURL>http://pixabay.com/en/percent-one-hundred-100-3d-226321/</PictureURL>
+		<Sample1>百（ひゃく）ドラです！</Sample1>
+		<S1trans>it's $100!</S1trans>
+	</entry>
+	<entry>
+		<Kanji>千</Kanji>
+		<Grade>X</Grade>
+		<Onyomi>セン</Onyomi>
+		<Kunyomi>ち</Kunyomi>
+		<Definition>thousand</Definition>
+		<PictureURL>http://s0.geograph.org.uk/geophotos/02/64/62/2646238_9769a89a.jpg</PictureURL>
+		<Sample1>に千（せん）かんじおぼえてください。</Sample1>
+		<S1trans>please learn 2000 kanji</S1trans>
+	</entry>
+	<entry>
+		<Kanji>上</Kanji>
+		<Grade>X</Grade>
+		<Onyomi>ジョウ, ショウ, シャン, ヨ</Onyomi>
+		<Kunyomi>うえ, うわ-, かみ, あ.げる, あ.がる, のぼ</Kunyomi>
+		<Definition>above, up</Definition>
+		<PictureURL>http://pixabay.com/en/arrow-upward-green-pointing-24846/</PictureURL>
+		<Compounds>1．見上げる,　みあげる；2．上手, じょうず</Compounds>
+		<Sample1>そのまどはドアに上（うえ）です。</Sample1>
+		<S1trans>that window is above the door</S1trans>
+	</entry>
+	<entry>
+		<Kanji>下</Kanji>
+		<Grade>X</Grade>
+		<Onyomi>カ ゲ, オ.リ</Onyomi>
+		<Kunyomi>した, しも, もと, さ.げる, さ.がる, くだ.る, お.ろす</Kunyomi>
+		<Definition>below, down, descend, give, low, inferior</Definition>
+		<PictureURL>http://pixabay.com/en/arrow-button-down-forward-glossy-157545/</PictureURL>
+		<Compounds>1．下手,　へた</Compounds>
+		<Sample1>ほんはつくえに下（した）です。</Sample1>
+		<S1trans>the book is below the desk</S1trans>
+	</entry>
+	<entry>
+		<Kanji>中</Kanji>
+		<Grade>X</Grade>
+		<Onyomi>チュウ, アタ</Onyomi>
+		<Kunyomi>なか, うち</Kunyomi>
+		<Definition>in, inside, middle, mean, center</Definition>
+		<PictureURL>*</PictureURL>
+		<Compounds>1．中国,　ちゅうごく；2．</Compounds>
+		<Sample1>かばんの中（なか）になんですか。</Sample1>
+		<S1trans>what is in the bag?</S1trans>
+	</entry>
+	<entry>
+		<Kanji>大</Kanji>
+		<Grade>X</Grade>
+		<Onyomi>ダイ, タイ, -オオ.イ</Onyomi>
+		<Kunyomi>おお-, おお.きい</Kunyomi>
+		<Definition>large, big</Definition>
+		<PictureURL>*</PictureURL>
+		<Sample1>このいぬが大（おお）きです。</Sample1>
+		<S1trans>this dog is big</S1trans>
+	</entry>
+	<entry>
+		<Kanji>小</Kanji>
+		<Grade>X</Grade>
+		<Onyomi>ショウ</Onyomi>
+		<Kunyomi>ちい.さい, こ-, お-, さ</Kunyomi>
+		<Definition>little, small</Definition>
+		<PictureURL>*</PictureURL>
+		<Sample1>ねこが小（ちい）さいです。</Sample1>
+		<S1trans>the cat is small</S1trans>
+	</entry>
+	<entry>
+		<Kanji>月</Kanji>
+		<Grade>X</Grade>
+		<Onyomi>ゲツ, ガツ</Onyomi>
+		<Kunyomi>つき</Kunyomi>
+		<Definition>month, moon</Definition>
+		<PictureURL>http://www.shutterstock.com/en/pic.mhtml?id=123300472&amp;pl=44814-43068</PictureURL>
+		<Sample1>月（つき）はあかるいです。</Sample1>
+		<S1trans>The moon is bright</S1trans>
+	</entry>
+	<entry>
+		<Kanji>日</Kanji>
+		<Grade>X</Grade>
+		<Onyomi>ニチ, ジツ-</Onyomi>
+		<Kunyomi>ひ, -び</Kunyomi>
+		<Definition>day, sun, Japan</Definition>
+		<PictureURL>http://pixabay.com/en/sun-smile-cartoon-smiling-rays-70832/</PictureURL>
+		<Compounds>１．今日　きょう；</Compounds>
+		<Sample1>その日（にち）はあつかった。</Sample1>
+		<S1trans>That day was hot</S1trans>
+	</entry>
+	<entry>
+		<Kanji>年</Kanji>
+		<Grade>X</Grade>
+		<Onyomi>ネン</Onyomi>
+		<Kunyomi>とし</Kunyomi>
+		<Definition>year</Definition>
+		<PictureURL>*</PictureURL>
+		<Sample1>一年（いちねん）からべんきょしました。</Sample1>
+		<S1trans>I studied for one year</S1trans>
+	</entry>
+	<entry>
+		<Kanji>早</Kanji>
+		<Grade>X</Grade>
+		<Onyomi>サッ、 ソウ</Onyomi>
+		<Kunyomi>さ-、  はや-</Kunyomi>
+		<Definition>early, fast</Definition>
+		<PictureURL>*</PictureURL>
+		<Sample1>早（はや）くきてください。</Sample1>
+		<S1trans>Please come quickly</S1trans>
+	</entry>
+	<entry>
+		<Kanji>木</Kanji>
+		<Grade>X</Grade>
+		<Onyomi>ボク, モク</Onyomi>
+		<Kunyomi>き, こ</Kunyomi>
+		<Definition>tree, wood</Definition>
+		<PictureURL>http://pixabay.com/en/oak-tree-summer-branches-leaves-309878/</PictureURL>
+		<Sample1>この木（き）はたかいです</Sample1>
+		<S1trans>This tree is tall</S1trans>
+	</entry>
+	<entry>
+		<Kanji>林</Kanji>
+		<Grade>X</Grade>
+		<Onyomi>リン</Onyomi>
+		<Kunyomi>はやし</Kunyomi>
+		<Definition>forest, grove</Definition>
+		<PictureURL>http://pixabay.com/en/trees-forest-path-stony-stones-432476/</PictureURL>
+		<Sample1>林（はやし）にいってあぶない。</Sample1>
+		<S1trans>It is dangerous to go to the forest</S1trans>
+	</entry>
+	<entry>
+		<Kanji>山</Kanji>
+		<Grade>X</Grade>
+		<Onyomi>サン, セン</Onyomi>
+		<Kunyomi>やま</Kunyomi>
+		<Definition>mountain</Definition>
+		<PictureURL>http://pixabay.com/en/matterhorn-zermatt-switzerland-snow-425134/</PictureURL>
+		<Sample1>わたしは山（やま）にいく。</Sample1>
+		<S1trans>I go to the mountain</S1trans>
+	</entry>
+	<entry>
+		<Kanji>川</Kanji>
+		<Grade>X</Grade>
+		<Onyomi>セン</Onyomi>
+		<Kunyomi>かわ</Kunyomi>
+		<Definition>stream, river</Definition>
+		<PictureURL>http://pixabay.com/en/torrent-white-water-force-nature-87/</PictureURL>
+		<Sample1>川（かわ）がさむいです。</Sample1>
+		<S1trans>the stream is cold</S1trans>
+	</entry>
+	<entry>
+		<Kanji>土</Kanji>
+		<Grade>X</Grade>
+		<Onyomi>ド,  ト</Onyomi>
+		<Kunyomi>つち</Kunyomi>
+		<Definition>soil, earth, ground, Turkey</Definition>
+		<PictureURL>http://pixabay.com/en/arid-background-climate-desert-21799/</PictureURL>
+	</entry>
+	<entry>
+		<Kanji>空</Kanji>
+		<Grade>X</Grade>
+		<Onyomi>クウ</Onyomi>
+		<Kunyomi>あ-、 から、 す-、 そら、 むな.しい</Kunyomi>
+		<Definition>empty, sky, vacant, vacume, void</Definition>
+		<PictureURL>http://pixabay.com/en/sky-mountain-cloud-mountains-62732/</PictureURL>
+		<Sample1>空でとぶ。</Sample1>
+		<S1trans>fly in the sky</S1trans>
+	</entry>
+	<entry>
+		<Kanji>田</Kanji>
+		<Grade>X</Grade>
+		<Onyomi>デン</Onyomi>
+		<Kunyomi>た</Kunyomi>
+		<Definition>rice field</Definition>
+		<PictureURL>http://pixabay.com/en/vietnam-rice-field-mai-chau-106965/</PictureURL>
+		<Sample1>田にいきます。</Sample1>
+		<S1trans>I'm going to the rice field</S1trans>
+	</entry>
+	<entry>
+		<Kanji>天</Kanji>
+		<Grade>X</Grade>
+		<Onyomi>テン</Onyomi>
+		<Kunyomi>あまつ, あめ, あま</Kunyomi>
+		<Definition>heavens, sky, imperial</Definition>
+		<PictureURL>http://upload.wikimedia.org/wikipedia/commons/8/8c/19th_century_black_heaven.jpg</PictureURL>
+	</entry>
+	<entry>
+		<Kanji>生</Kanji>
+		<Grade>X</Grade>
+		<Onyomi>セイ, ショウ</Onyomi>
+		<Kunyomi>い-, う-, うまれ, お-, は-, き, なま-, な.る</Kunyomi>
+		<Definition>life, genuine, birth</Definition>
+		<PictureURL>http://pixabay.com/en/heartbeat-pulse-healthcare-medicine-163709/</PictureURL>
+	</entry>
+	<entry>
+		<Kanji>花</Kanji>
+		<Grade>X</Grade>
+		<Onyomi>カ、 ケ</Onyomi>
+		<Kunyomi>はな</Kunyomi>
+		<Definition>flower</Definition>
+		<PictureURL>http://pixabay.com/en/flower-blue-close-flora-beautiful-397975/</PictureURL>
+		<Sample1>その花はきれいです</Sample1>
+		<S1trans>That flower is pretty</S1trans>
+	</entry>
+	<entry>
+		<Kanji>草</Kanji>
+		<Grade>X</Grade>
+		<Onyomi>ソウ</Onyomi>
+		<Kunyomi>くさ</Kunyomi>
+		<Definition>Grass</Definition>
+		<PictureURL>http://upload.wikimedia.org/wikipedia/commons/7/7b/Green_Grass_With_Dew.jpg</PictureURL>
+		<Compounds>１．草木（くさき）；２．草花（くさはな）；３．草子（そうし）；４。草本（そうほん）；５．草食（そうしょく）</Compounds>
+		<Sample1>牛は草をたべる</Sample1>
+		<S1trans>Cows eat grass.</S1trans>
+		<Sample2>風が草をなびかせている。</Sample2>
+	</entry>
+	<entry>
+		<Kanji>虫</Kanji>
+		<Grade>X</Grade>
+		<Onyomi>チュウ</Onyomi>
+		<Kunyomi>むし</Kunyomi>
+		<Definition>Insect</Definition>
+		<PictureURL>http://upload.wikimedia.org/wikipedia/commons/7/74/Insect_collage.png</PictureURL>
+		<Compounds>１．虫気（むしけ）；２．虫食い（むしくい）；３．虫の音（むしのね）４．蝕む（むしばむ）；５．</Compounds>
+		<Sample1>虫の音がきこえます。</Sample1>
+		<S1trans>I can hear the chirping of insects.</S1trans>
+		<Sample2>メアリーは本の虫です。</Sample2>
+	</entry>
+	<entry>
+		<Kanji>犬</Kanji>
+		<Grade>X</Grade>
+		<Onyomi>ケン</Onyomi>
+		<Kunyomi>いぬ</Kunyomi>
+		<Definition>Dog</Definition>
+		<PictureURL>http://www.westminsterkennelclub.org/breedinformation/non-sporting/images/shibainu.jpg</PictureURL>
+		<Sample1>これは犬です。</Sample1>
+		<S1trans>This is a dog.</S1trans>
+		<Sample2>この犬は大きい。</Sample2>
+	</entry>
+	<entry>
+		<Kanji>人</Kanji>
+		<Grade>X</Grade>
+		<Onyomi>ジン、ニン</Onyomi>
+		<Kunyomi>ひと</Kunyomi>
+		<Definition>Person</Definition>
+		<PictureURL>http://pixabay.com/static/uploads/photo/2013/11/28/11/30/man-220258_640.jpg</PictureURL>
+		<Sample1>いい人です。</Sample1>
+		<S1trans>He is nice.</S1trans>
+		<Sample2>文は人なり。</Sample2>
+	</entry>
+	<entry>
+		<Kanji>名</Kanji>
+		<Grade>X</Grade>
+		<Onyomi>メイ、ミョウ</Onyomi>
+		<Kunyomi>な</Kunyomi>
+		<Definition>Name</Definition>
+		<PictureURL>http://upload.wikimedia.org/wikipedia/commons/d/db/Hello_my_name_is_sticker.svg</PictureURL>
+		<Sample1>我が名はホプキンス。</Sample1>
+		<S1trans>My name is Hopkins.</S1trans>
+		<Sample2>彼女の名はルシフェラ。</Sample2>
+	</entry>
+	<entry>
+		<Kanji>女</Kanji>
+		<Grade>X</Grade>
+		<Onyomi>ジョ、ニョ</Onyomi>
+		<Kunyomi>おんな</Kunyomi>
+		<Definition>Female</Definition>
+		<PictureURL>http://pixabay.com/static/uploads/photo/2014/03/25/16/58/female-297734_640.png</PictureURL>
+		<Sample1>ルーシーはかわいい女の子だ。</Sample1>
+		<S1trans>Lucy is a pretty little girl.</S1trans>
+		<Sample2>女の子は人形を抱きしめた。</Sample2>
+	</entry>
+	<entry>
+		<Kanji>男</Kanji>
+		<Grade>X</Grade>
+		<Onyomi>ダン、ナン</Onyomi>
+		<Kunyomi>おとこ</Kunyomi>
+		<Definition>Male</Definition>
+		<PictureURL>http://pixabay.com/static/uploads/photo/2012/04/28/19/07/male-44078_640.png</PictureURL>
+		<Sample1>彼は、長男です。</Sample1>
+		<S1trans>He is the eldest.</S1trans>
+		<Sample2>私たちは、男です。</Sample2>
+	</entry>
+	<entry>
+		<Kanji>子</Kanji>
+		<Grade>X</Grade>
+		<Onyomi>シ、ス</Onyomi>
+		<Kunyomi>こ</Kunyomi>
+		<Definition>Child</Definition>
+		<PictureURL>http://peh.wckp.lodz.pl/sites/default/files/u28/religijna.jpg</PictureURL>
+		<Sample1>私は男の子です。</Sample1>
+		<S1trans>I am a boy.</S1trans>
+		<Sample2>彼はいけない子だ。</Sample2>
+	</entry>
+	<entry>
+		<Kanji>目</Kanji>
+		<Grade>X</Grade>
+		<Onyomi>モク</Onyomi>
+		<Kunyomi>め</Kunyomi>
+		<Definition>Eye</Definition>
+		<PictureURL>http://fc07.deviantart.net/fs71/i/2012/051/8/2/vector_eye_by_angiemyst-d4qge9u.png</PictureURL>
+		<Sample1>目を閉じて。</Sample1>
+		<S1trans>Close your eyes.</S1trans>
+		<Sample2>彼の目は青い。</Sample2>
+	</entry>
+	<entry>
+		<Kanji>耳</Kanji>
+		<Grade>X</Grade>
+		<Onyomi>ジ、ニ</Onyomi>
+		<Kunyomi>みみ</Kunyomi>
+		<Definition>Ear</Definition>
+		<PictureURL>http://www.123desenhosparacolorir.com/images/desenho-do-corpo-humano/150/desenho-do-corpo-humano-orelha.png</PictureURL>
+		<Sample1>耳がほてる。</Sample1>
+		<S1trans>My ears burn.</S1trans>
+		<Sample2>私たちは耳で聞く。</Sample2>
+	</entry>
+	<entry>
+		<Kanji>口</Kanji>
+		<Grade>X</Grade>
+		<Onyomi>コウ</Onyomi>
+		<Kunyomi>くち</Kunyomi>
+		<Definition>Mouth</Definition>
+		<PictureURL>http://upload.wikimedia.org/wikipedia/commons/9/99/Mouth.jpg</PictureURL>
+		<Sample1>口をあけなさい。</Sample1>
+		<S1trans>Open your mouth.</S1trans>
+		<Sample2>赤ん坊は口を開けた。</Sample2>
+	</entry>
+	<entry>
+		<Kanji>手</Kanji>
+		<Grade>X</Grade>
+		<Onyomi>シュ</Onyomi>
+		<Kunyomi>て</Kunyomi>
+		<Definition>Hand</Definition>
+		<PictureURL>http://upload.wikimedia.org/wikipedia/commons/f/fa/Hand.svg</PictureURL>
+		<Sample1>手を洗いなさい。</Sample1>
+		<S1trans>Wash your hands.</S1trans>
+		<Sample2>手をあげろ！</Sample2>
+	</entry>
+	<entry>
+		<Kanji>足</Kanji>
+		<Grade>X</Grade>
+		<Onyomi>ソク</Onyomi>
+		<Kunyomi>あし</Kunyomi>
+		<Definition>Foot, Leg</Definition>
+		<PictureURL>http://pixabay.com/static/uploads/photo/2013/07/13/01/21/feet-155585_640.png</PictureURL>
+		<Sample1>彼は足が長い。</Sample1>
+		<S1trans>He has long legs.</S1trans>
+		<Sample2>足がだるいです。</Sample2>
+	</entry>
+	<entry>
+		<Kanji>見</Kanji>
+		<Grade>X</Grade>
+		<Onyomi>ケン、ゲン</Onyomi>
+		<Kunyomi>み・る</Kunyomi>
+		<Definition>See</Definition>
+		<PictureURL>http://upload.wikimedia.org/wikipedia/commons/5/52/Garnisonen_i_S%C3%B8r-Varanger_binoculars.jpg</PictureURL>
+		<Sample1>後ろを見ろ。</Sample1>
+		<S1trans>Look back!</S1trans>
+		<Sample2>見せてくれ。</Sample2>
+	</entry>
+	<entry>
+		<Kanji>音</Kanji>
+		<Grade>X</Grade>
+		<Onyomi>オン</Onyomi>
+		<Kunyomi>おと</Kunyomi>
+		<Definition>Sound</Definition>
+		<PictureURL>http://pixabay.com/static/uploads/photo/2013/04/01/09/21/speaker-98507_640.png</PictureURL>
+		<Sample1>音を大きくして。</Sample1>
+		<S1trans>Turn the volume up.</S1trans>
+		<Sample2>大きな音をたてた。</Sample2>
+	</entry>
+	<entry>
+		<Kanji>力</Kanji>
+		<Grade>X</Grade>
+		<Onyomi>リキ、リョク</Onyomi>
+		<Kunyomi>ちから</Kunyomi>
+		<Definition>Power</Definition>
+		<PictureURL>https://c1.staticflickr.com/3/2420/2418449445_28b622ec56_z.jpg?zz=1</PictureURL>
+		<Sample1>知識は力なり。</Sample1>
+		<S1trans>Knowledge is power.</S1trans>
+		<Sample2>力が尽きた。</Sample2>
+	</entry>
+	<entry>
+		<Kanji>気</Kanji>
+		<Grade>X</Grade>
+		<Onyomi>キ、ケ</Onyomi>
+		<Kunyomi>いき</Kunyomi>
+		<Definition>Spirit</Definition>
+		<Sample1>気にするな。</Sample1>
+		<S1trans>Never mind!</S1trans>
+		<Sample2>気に入った？</Sample2>
+	</entry>
+	<entry>
+		<Kanji>円</Kanji>
+		<Grade>X</Grade>
+		<Onyomi>エン</Onyomi>
+		<Kunyomi>まる</Kunyomi>
+		<Definition>Round, Yen (Japanese currency)</Definition>
+		<PictureURL>http://upload.wikimedia.org/wikipedia/commons/6/62/Japanese_Coins.jpg</PictureURL>
+		<Sample1>５０円です。</Sample1>
+		<S1trans>It's 50 yen.</S1trans>
+		<Sample2>円はドルより安い。</Sample2>
+	</entry>
+	<entry>
+		<Kanji>入</Kanji>
+		<Grade>X</Grade>
+		<Onyomi>ヌウ</Onyomi>
+		<Kunyomi>は・いる、い・る</Kunyomi>
+		<Definition>Enter</Definition>
+		<Sample1>風呂へ入ったか。</Sample1>
+		<S1trans>Did you take a bath?</S1trans>
+		<Sample2>入っておいでよ。</Sample2>
+	</entry>
+	<entry>
+		<Kanji>出</Kanji>
+		<Grade>X</Grade>
+		<Onyomi>シュツ</Onyomi>
+		<Kunyomi>で・る</Kunyomi>
+		<Definition>Exit</Definition>
+		<PictureURL>http://upload.wikimedia.org/wikipedia/commons/7/74/Light_green_neon_exit_sign.JPG</PictureURL>
+		<Sample1>外に出ろ。</Sample1>
+		<S1trans>Get out.</S1trans>
+		<Sample2>日が出ている。</Sample2>
+	</entry>
+	<entry>
+		<Kanji>立</Kanji>
+		<Grade>X</Grade>
+		<Onyomi>リツ</Onyomi>
+		<Kunyomi>た・つ</Kunyomi>
+		<Definition>Stand up</Definition>
+		<Sample1>立って下さい。</Sample1>
+		<S1trans>Stand up, please.</S1trans>
+		<Sample2>きっと立ち見よ。</Sample2>
+	</entry>
+	<entry>
+		<Kanji>休</Kanji>
+		<Grade>X</Grade>
+		<Onyomi>キュウ</Onyomi>
+		<Kunyomi>やす・む</Kunyomi>
+		<Definition>Rest</Definition>
+		<Sample1>今日は休みです。</Sample1>
+		<S1trans>I am off today.</S1trans>
+		<Sample2>ここで少し休もう。</Sample2>
+	</entry>
+	<entry>
+		<Kanji>先</Kanji>
+		<Grade>X</Grade>
+		<Onyomi>セン</Onyomi>
+		<Kunyomi>さき</Kunyomi>
+		<Definition>Previous</Definition>
+		<Sample1>お先にどうぞ。</Sample1>
+		<S1trans>After you.</S1trans>
+		<Sample2>駅はこのすぐ先だ。</Sample2>
+	</entry>
+	<entry>
+		<Kanji>夕</Kanji>
+		<Grade>X</Grade>
+		<Onyomi>セキ</Onyomi>
+		<Kunyomi>ゆう</Kunyomi>
+		<Definition>Evening</Definition>
+		<PictureURL>http://fc05.deviantart.net/fs70/f/2011/111/3/e/night_sky_by_zyzik-d3ejkyh.jpg</PictureURL>
+		<Sample1>夕べはひどく冷えた。</Sample1>
+		<S1trans>It froze hard last night.</S1trans>
+		<Sample2>夕べはぐっすり眠れたよ。</Sample2>
+	</entry>
+	<entry>
+		<Kanji>本</Kanji>
+		<Grade>X</Grade>
+		<Onyomi>ホン</Onyomi>
+		<Kunyomi>もと</Kunyomi>
+		<Definition>Book</Definition>
+		<PictureURL>http://os-imestrovica-zg.skole.hr/upload/os-imestrovica-zg/images/newsimg/158/Image/book_PNG2116.png</PictureURL>
+		<Sample1>本を開くな。</Sample1>
+		<S1trans>Don't open your book.</S1trans>
+		<Sample2>私の本はどこ？</Sample2>
+	</entry>
+	<entry>
+		<Kanji>文</Kanji>
+		<Grade>X</Grade>
+		<Onyomi>ブン、モン</Onyomi>
+		<Kunyomi>ふみ</Kunyomi>
+		<Definition>Text</Definition>
+		<Sample1>この文を英訳せよ。</Sample1>
+		<S1trans>Put this sentence into English.</S1trans>
+		<Sample2>ピザを注文しない？</Sample2>
+	</entry>
+	<entry>
+		<Kanji>字</Kanji>
+		<Grade>X</Grade>
+		<Onyomi>ジ</Onyomi>
+		<Kunyomi>あざ、あざな、な</Kunyomi>
+		<Definition>Character</Definition>
+		<Sample1>君は字がうまいね。</Sample1>
+		<S1trans>You write very neatly, don't you?</S1trans>
+		<Sample2>彼女は字が上手だ。</Sample2>
+	</entry>
+	<entry>
+		<Kanji>学</Kanji>
+		<Grade>X</Grade>
+		<Onyomi>ガク</Onyomi>
+		<Kunyomi>まな・ぶ</Kunyomi>
+		<Definition>Study</Definition>
+		<Sample1>彼は学生です。</Sample1>
+		<S1trans>He is a student.</S1trans>
+		<Sample2>長生きして学べ。</Sample2>
+	</entry>
+	<entry>
+		<Kanji>校</Kanji>
+		<Grade>X</Grade>
+		<Onyomi>コウ</Onyomi>
+		<Kunyomi>かさ</Kunyomi>
+		<Definition>School</Definition>
+		<Sample1>明日学校でね。</Sample1>
+		<S1trans>See you tomorrow at school.</S1trans>
+		<Sample2>トムは高校生です。</Sample2>
+	</entry>
+	<entry>
+		<Kanji>村</Kanji>
+		<Grade>X</Grade>
+		<Onyomi>ソン</Onyomi>
+		<Kunyomi>むら</Kunyomi>
+		<Definition>Village</Definition>
+		<Sample1>町は村よりも大きい。</Sample1>
+		<S1trans>Towns are larger than villages.</S1trans>
+		<Sample2>彼は小さな村で成長した。</Sample2>
+	</entry>
+	<entry>
+		<Kanji>町</Kanji>
+		<Grade>X</Grade>
+		<Onyomi>チョウ</Onyomi>
+		<Kunyomi>まち</Kunyomi>
+		<Definition>Town</Definition>
+		<Sample1>町を通っていく。</Sample1>
+		<S1trans>Pass along the street.</S1trans>
+		<Sample2>その町は人口が多い。</Sample2>
+	</entry>
+	<entry>
+		<Kanji>森</Kanji>
+		<Grade>X</Grade>
+		<Onyomi>シン</Onyomi>
+		<Kunyomi>もり</Kunyomi>
+		<Definition>Forrest</Definition>
+		<Sample1>森は鳥でにぎやかだ。</Sample1>
+		<S1trans>The wood is alive with birds.</S1trans>
+		<Sample2>その時森は静かだった。</Sample2>
+	</entry>
+	<entry>
+		<Kanji>正</Kanji>
+		<Grade>X</Grade>
+		<Onyomi>セイ、ショウ</Onyomi>
+		<Kunyomi>ただ・しい、まさ</Kunyomi>
+		<Definition>Correct</Definition>
+		<Sample1>僕が正しいと思う。</Sample1>
+		<S1trans>I'm right</S1trans>
+		<Sample2>彼女の意見は正しい。</Sample2>
+	</entry>
+	<entry>
+		<Kanji>水</Kanji>
+		<Grade>X</Grade>
+		<Onyomi>スイ</Onyomi>
+		<Kunyomi>みず</Kunyomi>
+		<Definition>Water</Definition>
+		<PictureURL>http://upload.wikimedia.org/wikipedia/commons/9/99/W020100331475021717874.jpg</PictureURL>
+		<Sample1>水をください。</Sample1>
+		<S1trans>Some water, please.</S1trans>
+		<Sample2>魚は水中に住む。</Sample2>
+	</entry>
+	<entry>
+		<Kanji>火</Kanji>
+		<Grade>X</Grade>
+		<Onyomi>カ</Onyomi>
+		<Kunyomi>ひ、び、ほ</Kunyomi>
+		<Definition>Fire</Definition>
+		<PictureURL>http://upload.wikimedia.org/wikipedia/commons/4/41/Fire.JPG</PictureURL>
+		<Sample1>火を消せ。</Sample1>
+		<S1trans>Put out the fire.</S1trans>
+		<Sample2>冬は火事が多い。</Sample2>
+	</entry>
+	<entry>
+		<Kanji>玉</Kanji>
+		<Grade>X</Grade>
+		<Onyomi>ギョク</Onyomi>
+		<Kunyomi>たま、だま</Kunyomi>
+		<Definition>Ball, Jewel</Definition>
+		<PictureURL>http://art42.photozou.jp/pub/446/540446/photo/50090719_624.jpg</PictureURL>
+		<Sample1>私は玉ねぎの味が嫌いだ。</Sample1>
+		<S1trans>I don't like the taste of onions.</S1trans>
+		<Sample2>ニッケルは５セント玉です。</Sample2>
+	</entry>
+	<entry>
+		<Kanji>王</Kanji>
+		<Grade>X</Grade>
+		<Onyomi>オウ、ノウ</Onyomi>
+		<Definition>King</Definition>
+		<PictureURL>http://upload.wikimedia.org/wikipedia/commons/d/db/King_Sho_En.jpg</PictureURL>
+		<Sample1>わしは鳥の王だ。</Sample1>
+		<S1trans>The eagle is king of birds.</S1trans>
+		<Sample2>英国女王エリザベス。</Sample2>
+	</entry>
+	<entry>
+		<Kanji>石</Kanji>
+		<Onyomi>セキ、シャク、コク</Onyomi>
+		<Kunyomi>いし</Kunyomi>
+		<Definition>Stone, Gem, Jewel</Definition>
+		<PictureURL>http://upload.wikimedia.org/wikipedia/commons/3/3e/%E6%9C%A8%E6%B8%8E%E8%99%B9%E9%A5%AE%E5%B1%B1%E6%88%BF%E5%A4%AA%E6%B9%96%E7%9F%B3.JPG</PictureURL>
+		<Sample1>石の多い土地ですね。</Sample1>
+		<S1trans>It's a very rocky soil, isn't it?</S1trans>
+		<Sample2>彼らは、石川に行く。</Sample2>
+	</entry>
+	<entry>
+		<Kanji>竹</Kanji>
+		<Grade>X</Grade>
+		<Onyomi>チク</Onyomi>
+		<Kunyomi>たけ</Kunyomi>
+		<Definition>Bamboo</Definition>
+		<PictureURL>http://upload.wikimedia.org/wikipedia/commons/f/f6/Fargesia_nitida_MUN.JPG</PictureURL>
+		<Sample1>林に竹が目立つ。</Sample1>
+		<S1trans>Bamboo stands out in the woods.</S1trans>
+		<Sample2>わに竹が生えている。</Sample2>
+	</entry>
+	<entry>
+		<Kanji>糸</Kanji>
+		<Onyomi>シ</Onyomi>
+		<Kunyomi>いと</Kunyomi>
+		<Definition>Thread, String</Definition>
+		<PictureURL>http://upload.wikimedia.org/wikipedia/commons/a/a7/Colourful_thread_in_Chinatowns_market_streets_(6491930649).jpg</PictureURL>
+		<Sample1>この糸はすぐもつれる。</Sample1>
+		<S1trans>This thread tangles easily.</S1trans>
+		<Sample2>運命の赤い糸でつながってるんだよ。</Sample2>
+	</entry>
+	<entry>
+		<Kanji>貝</Kanji>
+		<Grade>X</Grade>
+		<Onyomi>バイ</Onyomi>
+		<Kunyomi>かい</Kunyomi>
+		<Definition>Shellfish</Definition>
+		<PictureURL>http://upload.wikimedia.org/wikipedia/commons/0/0b/Shellfish.jpg</PictureURL>
+		<Sample1>貝は好きではない。</Sample1>
+		<S1trans>I don't like shellfish.</S1trans>
+		<Sample2>プレゼントにするきれいな貝がらをひろいにいったよ！</Sample2>
+	</entry>
+	<entry>
+		<Kanji>車</Kanji>
+		<Grade>X</Grade>
+		<Onyomi>シャ</Onyomi>
+		<Kunyomi>くるま</Kunyomi>
+		<Definition>Vehicle</Definition>
+		<PictureURL>http://upload.wikimedia.org/wikipedia/commons/0/0d/Tata_Marcopolo_Green_Chandigarh_Ind.jpg</PictureURL>
+		<Sample1>車で行こう。</Sample1>
+		<S1trans>Let's go by car.</S1trans>
+		<Sample2>私は車が好きだ</Sample2>
+	</entry>
+	<entry>
+		<Kanji>金</Kanji>
+		<Grade>X</Grade>
+		<Onyomi>キン、コン、ゴン</Onyomi>
+		<Kunyomi>かね、かな、がな</Kunyomi>
+		<Definition>Money</Definition>
+		<PictureURL>http://upload.wikimedia.org/wikipedia/commons/f/ff/1000_yen_Natsume_Soseki.jpg</PictureURL>
+		<Sample1>金より体。</Sample1>
+		<S1trans>Health is better than wealth.</S1trans>
+		<Sample2>金は少しある。</Sample2>
+	</entry>
+	<entry>
+		<Kanji>雨</Kanji>
+		<Grade>X</Grade>
+		<Onyomi>ウ</Onyomi>
+		<Kunyomi>あめ、あま、さめ</Kunyomi>
+		<Definition>Rain</Definition>
+		<PictureURL>http://pixabay.com/p-316579/?no_redirect</PictureURL>
+		<Sample1>また雨だ。</Sample1>
+		<S1trans>It's raining again!</S1trans>
+		<Sample2>明日は雨かしら。</Sample2>
+	</entry>
+	<entry>
+		<Kanji>赤</Kanji>
+		<Grade>X</Grade>
+		<Onyomi>セキ、シャク</Onyomi>
+		<Kunyomi>あか</Kunyomi>
+		<Definition>Red</Definition>
+		<PictureURL>http://upload.wikimedia.org/wikipedia/commons/f/fd/Color_icon_red.svg</PictureURL>
+		<Sample1>１．草木（くさき）；２．草花（くさはな）；３．草子（そうし）；４。草書（そうしょ）５</Sample1>
+		<S1trans>Do you have any in red?</S1trans>
+		<Sample2>それの色は赤い。</Sample2>
+	</entry>
+	<entry>
+		<Kanji>青</Kanji>
+		<Grade>X</Grade>
+		<Onyomi>セイ、ショウ</Onyomi>
+		<Kunyomi>あお</Kunyomi>
+		<Definition>Blue</Definition>
+		<PictureURL>http://upload.wikimedia.org/wikipedia/commons/b/bd/Color_icon_blue.svg</PictureURL>
+		<Sample1>空は青い。</Sample1>
+		<S1trans>The sky is blue.</S1trans>
+		<Sample2>あの少女の目は青い。</Sample2>
+	</entry>
+	<entry>
+		<Kanji>白</Kanji>
+		<Grade>X</Grade>
+		<Onyomi>ハク、ビャク</Onyomi>
+		<Kunyomi>しろ、しら</Kunyomi>
+		<Definition>White</Definition>
+		<PictureURL>http://christmasstockimages.com/free/Stars/slides/paper_stars.jpg</PictureURL>
+		<Sample1>私の犬は白い。</Sample1>
+		<S1trans>My dog is white.</S1trans>
+		<Sample2>雪のように白い。</Sample2>
+	</entry>
+	<entry>
+		<Kanji>古</Kanji>
+		<Onyomi>コ</Onyomi>
+		<Kunyomi>ふる</Kunyomi>
+		<Definition>Old</Definition>
+		<PictureURL>http://upload.wikimedia.org/wikipedia/commons/f/fd/%E5%8F%A4%E3%81%84%E9%9B%BB%E8%A9%B1%E6%A9%9F.jpg</PictureURL>
+		<Sample1>この本は古い。</Sample1>
+		<S1trans>This book is old.</S1trans>
+		<Sample2>私の車は中古だ。</Sample2>
+	</entry>
+	<entry>
+		<Kanji>母</Kanji>
+		<Onyomi>ボ</Onyomi>
+		<Kunyomi>はは、も</Kunyomi>
+		<Definition>Mother</Definition>
+		<PictureURL>http://th07.deviantart.net/fs70/300W/i/2011/127/b/f/mother_claire_and_son_charles_by_mistermadhatter-d3fu3o8.jpg</PictureURL>
+		<Sample1>お母さんはどこ。</Sample1>
+		<S1trans>Where is mother?</S1trans>
+		<Sample2>母はゆっくり話す。</Sample2>
+	</entry>
+	<entry>
+		<Kanji>右</Kanji>
+		<Grade>X</Grade>
+		<Onyomi>ウ、ユウ</Onyomi>
+		<Kunyomi>みぎ</Kunyomi>
+		<Definition>Right</Definition>
+		<PictureURL>http://pixabay.com/p-30330/?no_redirect</PictureURL>
+		<Sample1>右足がしびれちゃった</Sample1>
+		<S1trans>My right foot is sleeping.</S1trans>
+		<Sample2>右手に海が見えます。</Sample2>
+	</entry>
+	<entry>
+		<Kanji>左</Kanji>
+		<Grade>X</Grade>
+		<Onyomi>セ、シャ</Onyomi>
+		<Kunyomi>ひだり</Kunyomi>
+		<Definition>Left</Definition>
+		<PictureURL>http://upload.wikimedia.org/wikipedia/commons/8/88/Singapore_Road_Signs_-_Regulatory_Sign_-_Left_Turn_Ahead_Only.svg</PictureURL>
+		<Sample1>左手を上げなさい。</Sample1>
+		<S1trans>Raise your left hand.</S1trans>
+		<Sample2>左足がしびれた。</Sample2>
+	</entry>
+	<entry>
+		<Kanji>会</Kanji>
+		<Onyomi>カイ、エ</Onyomi>
+		<Kunyomi>あ</Kunyomi>
+		<Definition>Meet</Definition>
+		<Compounds>会見（かいけん）、会社（かいしゃ）、会長（かいちょう）、国会（こっかい）、社会（しゃかい）、大会（たかい）、会食（かいしょく）、会話（かいわ）、学会（がっかい）、会う（あう）</Compounds>
+		<Sample1>友達に会いました。</Sample1>
+		<S1trans>I saw my friend.</S1trans>
+		<Sample2>母に会います。</Sample2>
+	</entry>
+	<entry>
+		<Kanji>行</Kanji>
+		<Onyomi>コウ、ギョウ</Onyomi>
+		<Kunyomi>い</Kunyomi>
+		<Definition>Go</Definition>
+		<PictureURL>http://upload.wikimedia.org/wikipedia/commons/9/91/Hyozu-jinja_%E5%85%B5%E4%B8%BB%E7%A5%9E%E7%A4%BE%E4%BE%8B%E7%A5%AD%EF%BC%88%E8%A5%BF%E8%84%87%E5%B8%82%E9%BB%92%E7%94%B0%E5%BA%84%E7%94%BA%E5%B2%A1%EF%BC%892011.10.9_%E5%B8%B0%E3%82%8A%E9%81%93%E3%80%81%E8%A1%8C%E3%81%8F%E4%BA%BA%E6%9D%A5%E3%82%8B%E4%BA%BA_DSCF1267.jpg</PictureURL>
+		<Compounds>一行（いちぎょう、いっこう）、行く（いく）、</Compounds>
+		<Sample1>会社に行きます。</Sample1>
+		<S1trans>I go to the company (work).</S1trans>
+		<Sample2>日本に行きます。</Sample2>
+	</entry>
+	<entry>
+		<Kanji>多</Kanji>
+		<Onyomi>タ</Onyomi>
+		<Kunyomi>おお、まさ</Kunyomi>
+		<Definition>Many</Definition>
+		<PictureURL>http://upload.wikimedia.org/wikipedia/commons/8/8e/Rubber_duckies_So_many_ducks.jpg</PictureURL>
+		<Compounds>多大（ただい）、大目（おおめ）、多年（たねん）、多々（たた）、多雨（たう）、多言（たげん）、多食（たしょく）、多読（たどく）、多い（おおい）</Compounds>
+		<Sample1>人が多いです。</Sample1>
+		<S1trans>There are many people.</S1trans>
+		<Sample2>飲み物が多いでした。</Sample2>
+	</entry>
+	<entry>
+		<Kanji>安</Kanji>
+		<Onyomi>アン</Onyomi>
+		<Kunyomi>やす</Kunyomi>
+		<Definition>Cheap</Definition>
+		<Compounds>安い（やすい）、目安（めやす）、大安（たいあん、だいあん）、安気（あんき），安手（やすで），安々（やすやす），安車（あんしゃ）</Compounds>
+		<Sample1>その皿は安いです。</Sample1>
+		<S1trans>That plate is cheap.</S1trans>
+		<Sample2>野菜は安いです。</Sample2>
+	</entry>
+	<entry>
+		<Kanji>西</Kanji>
+		<Onyomi>セイ、サイ</Onyomi>
+		<Kunyomi>にし</Kunyomi>
+		<Definition>West</Definition>
+		<Compounds>東西（とうざい）、北西（ほくせい）、南西（なんせい）、西南（せいなん）、西日（にしび）、西北（せいほく）、</Compounds>
+		<Sample1>日本の西に中国があります。</Sample1>
+		<S1trans>China is to the west of Japan.</S1trans>
+		<Sample2>関西で住んでいました。</Sample2>
+	</entry>
+	<entry>
+		<Kanji>毎</Kanji>
+		<Onyomi>マイ</Onyomi>
+		<Kunyomi>ごと</Kunyomi>
+		<Definition>Every</Definition>
+		<Compounds>毎日（まいにち）、毎週（まいしゅう）、毎月（まいつき、まいげつ）、毎年（まいとし）、毎時（まいじ）、毎々（まいまい）、毎食（まいしょく）、日毎に（ひごｔに）、年毎に（としごとに）、人毎（ひとごと）、一年毎（いちねんごと）、</Compounds>
+		<Sample1>毎日、朝ごはんを食べます。</Sample1>
+		<S1trans>Everyday, I eat breakfast.</S1trans>
+		<Sample2>毎朝、歯を磨きます。</Sample2>
+	</entry>
+	<entry>
+		<Kanji>社</Kanji>
+		<Onyomi>シャ</Onyomi>
+		<Kunyomi>やしろ</Kunyomi>
+		<Definition>Shrine, Company</Definition>
+		<PictureURL>http://upload.wikimedia.org/wikipedia/commons/3/3e/Small_shrines_of_Shiogama-jinja_shrine,Shiogama_city.JPG</PictureURL>
+		<Compounds>社会（しゃかい）、社長（しゃちょう）、会社（かいしゃ）、本社（ほんしゃ）、社交（しゃこう）、社名（しゃめい）、社会学（しゃかいがく）、</Compounds>
+	</entry>
+	<entry>
+		<Kanji>言</Kanji>
+		<Onyomi>ゲン</Onyomi>
+		<Kunyomi>李、こと</Kunyomi>
+		<Definition>Say</Definition>
+		<Compounds>言う（いう）、言語（げんご）、言い出す（いいだす）、一言（ひとこと）、言行（げんこう）、二言（にごん）、名言（めおいげん）言海（げんかい）、言語学（げんごがく）、言語名（げんごめい）、</Compounds>
+		<Sample1>何か言いましたか。</Sample1>
+		<S1trans>Did you say something?</S1trans>
+		<Sample2>時々言葉が忘れちゃった。</Sample2>
+	</entry>
+	<entry>
+		<Kanji>何</Kanji>
+		<Onyomi>カ</Onyomi>
+		<Kunyomi>なん、なに</Kunyomi>
+		<Definition>What</Definition>
+		<Compounds>何時（いつ、なんじ）、何千（なんぜん）、何百（なんびゃく）、何十（なんじゅう）、何人（なにびと、なんにん、なにじん）、何気ない（なにげない）、何々（なになに）、何月（なんがつ）、何日（なんにち）、何年（なんねん）、何語（なにご、なんご）、何名（なんめい）、</Compounds>
+		<Sample1>何か食べましたか。</Sample1>
+		<S1trans>Did you eat something?</S1trans>
+		<Sample2>それは何ですか。</Sample2>
+	</entry>
+	<entry>
+		<Kanji>国</Kanji>
+		<Onyomi>コク</Onyomi>
+		<Kunyomi>くに</Kunyomi>
+		<Definition>Country</Definition>
+		<PictureURL>http://upload.wikimedia.org/wikipedia/commons/e/ec/1855_Colton_Map_of_Japan_-_Geographicus_-_Japan-colton-1855.jpg</PictureURL>
+		<Compounds>国会（こっかい）、中国（ちゅうごく）、大国（たいこく）、国語（こくご）、国電（こくでん）、国道（こくどう）、国名（こくめい）、国々（くにぐに）、母国語（ぼこくご）、王国（おうこく）、本国（ほんごく）、出国（しゅっこく、しゅつごく）、中国人（ちゅうごくじん）、国王（こくおう）、国大（こくだい）、国体（こくたい）、国学（こくがく）、</Compounds>
+		<Sample1>その国の名前は何ですか。</Sample1>
+		<S1trans>What's that country's name?</S1trans>
+		<Sample2>中国はとても大きいです。</Sample2>
+	</entry>
+	<entry>
+		<Kanji>長</Kanji>
+		<Onyomi>チョウ</Onyomi>
+		<Kunyomi>なが、おさ</Kunyomi>
+		<Definition>Long</Definition>
+		<Sample1>ルナさんは足が長いです。</Sample1>
+		<S1trans>Luna's legs are long.</S1trans>
+		<Sample2>あの本は長すぎる。</Sample2>
+	</entry>
+	<entry>
+		<Kanji>東</Kanji>
+		<Onyomi>トウ</Onyomi>
+		<Kunyomi>ひがし</Kunyomi>
+		<Definition>East</Definition>
+		<Sample1>日本の東にアメリカがあります。</Sample1>
+		<S1trans>America is to the east of Japan.</S1trans>
+		<Sample2>東京に行ったことがあるますか。</Sample2>
+	</entry>
+	<entry>
+		<Kanji>店</Kanji>
+		<Onyomi>テン</Onyomi>
+		<Kunyomi>店、たな</Kunyomi>
+		<Definition>Store</Definition>
+		<PictureURL>http://upload.wikimedia.org/wikipedia/commons/3/33/HK_SYP_Chong_Yip_Ctr_7-11_shop.jpg</PictureURL>
+		<Sample1>その店はおいしいですか。</Sample1>
+		<S1trans>Is that shop delicious?</S1trans>
+		<Sample2>どんな店ですか。</Sample2>
+	</entry>
+	<entry>
+		<Kanji>後</Kanji>
+		<Onyomi>ゴ、コウ</Onyomi>
+		<Kunyomi>のち、うし</Kunyomi>
+		<Definition>Behind, After</Definition>
+		<Sample1>宿題をしたの後で、映画を見ます。</Sample1>
+		<S1trans>After homework, I watch a movie.</S1trans>
+		<Sample2>卒業の後、何をしたい。</Sample2>
+	</entry>
+	<entry>
+		<Kanji>前</Kanji>
+		<Onyomi>ゼン</Onyomi>
+		<Kunyomi>まえ</Kunyomi>
+		<Definition>Before</Definition>
+		<Sample1>クラスの前に何をしましたか。</Sample1>
+		<S1trans>Before class, what did you do?</S1trans>
+		<Sample2>テストの前に勉強しました。</Sample2>
+	</entry>
+	<entry>
+		<Kanji>食</Kanji>
+		<Onyomi>ショク、ジキ</Onyomi>
+		<Kunyomi>く、た、は</Kunyomi>
+		<Definition>Eat</Definition>
+		<PictureURL>http://art41.photozou.jp/pub/175/560175/photo/52907827_624.jpg</PictureURL>
+		<Sample1>晩御飯を食べました。</Sample1>
+		<S1trans>I ate dinner.</S1trans>
+		<Sample2>一番好きな食べ物はすしです。</Sample2>
+	</entry>
+	<entry>
+		<Kanji>南</Kanji>
+		<Onyomi>ナン、ナ</Onyomi>
+		<Kunyomi>みなみ</Kunyomi>
+		<Definition>South</Definition>
+		<Sample1>日本の南に沖縄があります。</Sample1>
+		<S1trans>Okinawa is in the south of Japan.</S1trans>
+	</entry>
+	<entry>
+		<Kanji>時</Kanji>
+		<Onyomi>ジ</Onyomi>
+		<Kunyomi>とく、どき</Kunyomi>
+		<Definition>Time</Definition>
+		<PictureURL>http://upload.wikimedia.org/wikipedia/commons/e/ef/Alarm_Clocks_20101107a.jpg</PictureURL>
+		<Sample1>何時におきましたか。</Sample1>
+		<S1trans>What time did you wake up?</S1trans>
+		<Sample2>子供のとき、犬がいました。</Sample2>
+	</entry>
+	<entry>
+		<Kanji>高</Kanji>
+		<Onyomi>コウ</Onyomi>
+		<Kunyomi>たか、だか</Kunyomi>
+		<Definition>High, Tall</Definition>
+		<PictureURL>http://upload.wikimedia.org/wikipedia/commons/1/12/Q1_Gold_Coast_March_2006.jpg</PictureURL>
+		<Sample1>その山は高いですね。</Sample1>
+		<S1trans>Isn't that mountain tall?</S1trans>
+		<Sample2>その値段は高すぎる。</Sample2>
+	</entry>
+	<entry>
+		<Kanji>書</Kanji>
+		<Onyomi>ショ</Onyomi>
+		<Kunyomi>がき、か</Kunyomi>
+		<Definition>Write</Definition>
+		<PictureURL>http://upload.wikimedia.org/wikipedia/commons/2/24/2004-02-29_Ball_point_pen_writing.jpg</PictureURL>
+		<Sample1>手紙を書きます。</Sample1>
+		<S1trans>I write a letter.</S1trans>
+		<Sample2>答えを書いてください。</Sample2>
+	</entry>
+	<entry>
+		<Kanji>週</Kanji>
+		<Onyomi>シュウ</Onyomi>
+		<Definition>Week</Definition>
+		<Sample1>今週、何をしますか。</Sample1>
+		<S1trans>This week, what will you do?</S1trans>
+		<Sample2>週末にたくさんねるつもりです。　</Sample2>
+	</entry>
+	<entry>
+		<Kanji>魚</Kanji>
+		<Onyomi>ギョ</Onyomi>
+		<Kunyomi>うお、さかな、ざかな</Kunyomi>
+		<Definition>Fish</Definition>
+		<PictureURL>http://upload.wikimedia.org/wikipedia/commons/b/b8/Helostoma_temminckii.JPG</PictureURL>
+		<Sample1>魚が好きですか。</Sample1>
+		<S1trans>Do you like fish?</S1trans>
+		<Sample2>すしは魚でできます。</Sample2>
+	</entry>
+	<entry>
+		<Kanji>間</Kanji>
+		<Onyomi>カン、ケン</Onyomi>
+		<Kunyomi>あいだ、ま、あい</Kunyomi>
+		<Definition>Space, Room, Interval</Definition>
+	</entry>
+	<entry>
+		<Kanji>道</Kanji>
+		<Onyomi>ドウ、トウ</Onyomi>
+		<Kunyomi>みち</Kunyomi>
+		<Definition>Road, Path</Definition>
+		<PictureURL>http://upload.wikimedia.org/wikipedia/commons/9/9f/Hennessy_Road.JPG</PictureURL>
+		<Sample1>その道は長いです。</Sample1>
+		<S1trans>That road is long.</S1trans>
+	</entry>
+	<entry>
+		<Kanji>買</Kanji>
+		<Onyomi>バイ</Onyomi>
+		<Kunyomi>か</Kunyomi>
+		<Definition>Buy</Definition>
+		<PictureURL>https://c2.staticflickr.com/8/7087/7026503363_8e2a2e617b_z.jpg</PictureURL>
+		<Sample1>りんごを買います。</Sample1>
+		<S1trans>I buy apples.</S1trans>
+		<Sample2>新しい服を買いましたか。</Sample2>
+	</entry>
+	<entry>
+		<Kanji>飲</Kanji>
+		<Onyomi>イン、オン</Onyomi>
+		<Kunyomi>の</Kunyomi>
+		<Definition>Drink</Definition>
+		<PictureURL>http://pixabay.com/p-373204/?no_redirect</PictureURL>
+		<Sample1>水を飲みます。</Sample1>
+		<S1trans>I drink water.</S1trans>
+		<Sample2>牛乳をあまり飲まない。</Sample2>
+	</entry>
+	<entry>
+		<Kanji>新</Kanji>
+		<Onyomi>シン</Onyomi>
+		<Kunyomi>あたら、あら、にい</Kunyomi>
+		<Definition>New</Definition>
+		<Sample1>新聞を読む。</Sample1>
+		<S1trans>I read the newspaper.</S1trans>
+		<Sample2>その車は新しいですか。</Sample2>
+	</entry>
+	<entry>
+		<Kanji>話</Kanji>
+		<Onyomi>ワ</Onyomi>
+		<Kunyomi>はな、はなし</Kunyomi>
+		<Definition>Talk, Story</Definition>
+		<PictureURL>http://pixabay.com/p-153536/?no_redirect</PictureURL>
+		<Sample1>その話が好きです。</Sample1>
+		<S1trans>I like that story.</S1trans>
+		<Sample2>先生は早き話します。</Sample2>
+	</entry>
+	<entry>
+		<Kanji>電</Kanji>
+		<Onyomi>デン</Onyomi>
+		<Definition>Electricity</Definition>
+		<PictureURL>http://upload.wikimedia.org/wikipedia/commons/d/db/Lightning_over_Oradea_Romania_cropped.jpg</PictureURL>
+	</entry>
+	<entry>
+		<Kanji>語</Kanji>
+		<Onyomi>ゴ</Onyomi>
+		<Kunyomi>かた</Kunyomi>
+		<Definition>Language</Definition>
+		<Sample1>日本語を勉強します。</Sample1>
+		<S1trans>I study Japanese.</S1trans>
+		<Sample2>外国語が面白いと思います。</Sample2>
+	</entry>
+	<entry>
+		<Kanji>聞</Kanji>
+		<Onyomi>ブン、、モン</Onyomi>
+		<Kunyomi>き</Kunyomi>
+		<Definition>Hear</Definition>
+		<PictureURL>http://pixabay.com/p-304432/?no_redirect</PictureURL>
+		<Sample1>音楽を聞きますか。</Sample1>
+		<S1trans>Do you listen to music?</S1trans>
+		<Sample2>皆さん、聞いてください。</Sample2>
+	</entry>
+	<entry>
+		<Kanji>駅</Kanji>
+		<Onyomi>エキ</Onyomi>
+		<Definition>Station</Definition>
+		<PictureURL>http://upload.wikimedia.org/wikipedia/commons/4/45/%E5%8F%A1%E9%9B%BB%E5%87%BA%E7%94%BA%E6%9F%B3%E9%A7%852.JPG</PictureURL>
+		<Sample1>新宿駅はどこですか。</Sample1>
+		<S1trans>Where is Shinjuku station?</S1trans>
+		<Sample2>駅で待っていた。</Sample2>
+	</entry>
+</data-set>
