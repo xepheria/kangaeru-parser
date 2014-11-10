@@ -3,6 +3,7 @@
 #include "kanjiEntry.h"
 
 #include <iostream>
+#include <string>
 
 USING_NS_CC;
 
@@ -83,7 +84,7 @@ bool HelloWorld::init()
     Dictionary *kanjiDict = Dictionary::create();
     
     //parse xml file into plist
-    std::string source("Resources/N5.xml");
+    std::string source("../../../Resources/N5.xml");
     pugi::xml_document doc;
     pugi::xml_parse_result result = doc.load_file(source.c_str());
     if (!result)
@@ -96,10 +97,11 @@ bool HelloWorld::init()
     std::cout << entries.name() << std::endl;
     
     std::string nameEntry;
-    
+    int i = 0;
     for(pugi::xml_node entry = entries.first_child(); entry; entry = entry.next_sibling())
     {
-        std::string kanjiName = entry.first_child().child_value();
+        //std::string kanjiName = entry.first_child().child_value();
+        //std::cout << i << std::endl;
         Dictionary *in = Dictionary::create();
         //found an entry, print its attributes
         for(pugi::xml_node attr = entry.first_child(); attr; attr = attr.next_sibling())
@@ -111,18 +113,19 @@ bool HelloWorld::init()
             //std::cout << "name: " << attrName << " val: " << attrVal->getCString() << std::endl;
             in->setObject(attrVal, attrName);
         }
-        //std::cout << kanjiName << std::endl;
-        kanjiDict->setObject(in, kanjiName);
+        kanjiDict->setObject(in, std::to_string(i));
+        i++;
     }
     
     //iterate through the dictionary and print
     DictElement *pElement;
     CCDICT_FOREACH(kanjiDict, pElement)
     {
-        const char *key = pElement->getStrKey();
+        const char *keyNum = pElement->getStrKey();
+        const char *key;
         String *pStr;
         
-        //std::cout << "---" << key << "---" << std::endl;
+        //std::cout << "---" << keyNum << "---" << std::endl;
         
         Dictionary *pDictInner = dynamic_cast<Dictionary*>(pElement->getObject());
         DictElement *pEleInner;
@@ -130,12 +133,12 @@ bool HelloWorld::init()
         {
             key = pEleInner->getStrKey();
             pStr = dynamic_cast<String*>(pEleInner->getObject());
-            //std::cout << key << " " << pStr << std::endl;
+            //std::cout << key << " " << pStr->getCString() << std::endl;
         }
     }
     
-    if(!kanjiDict->writeToFile("Resources/dictionary.plist"))
-        std::cout << "Couldn't write to file." << std::endl;
+    //if(!kanjiDict->writeToFile("../../../Resources/N5.plist"))
+        //std::cout << "Couldn't write to file." << std::endl;
     
     return true;
 }

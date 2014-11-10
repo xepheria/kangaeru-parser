@@ -6,25 +6,3 @@
 
 #IncludeRegexTransform: 
 
-../cocos2d/cocos/base/ccFPSImages.h
-
-/home/alex/Kangaeru/parser/cocos2d/cocos/base/ccFPSImages.c
-base/ccFPSImages.h
-/home/alex/Kangaeru/parser/cocos2d/cocos/base/base/ccFPSImages.h
-
-/home/alex/Kangaeru/parser/cocos2d/external/ConvertUTF/ConvertUTF.c
-ConvertUTF.h
-/home/alex/Kangaeru/parser/cocos2d/external/ConvertUTF/ConvertUTF.h
-stdio.h
--
-string.h
--
-
-/home/alex/Kangaeru/parser/cocos2d/external/ConvertUTF/ConvertUTF.h
-stddef.h
--
-vector
--
-string
--
-

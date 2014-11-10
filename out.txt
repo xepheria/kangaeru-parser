@@ -1,13 +1,13 @@
 -- Configuring done
 -- Generating done
 -- Build files have been written to: /home/alex/Kangaeru/parser/linux-build
-[ 14%] Built target cocostudio
-[ 22%] Built target chipmunk_static
-[ 22%] Built target unzip
-[ 23%] Built target tinyxml2
-[ 23%] Built target audio
-[ 24%] Built target xxhash
-[ 80%] Built target cocos2d
+[ 15%] Built target cocostudio
+[ 23%] Built target chipmunk_static
+[ 23%] Built target unzip
+[ 24%] Built target tinyxml2
+[ 24%] Built target audio
+[ 25%] Built target xxhash
+[ 81%] Built target cocos2d
 [ 87%] Built target extensions
 [ 93%] Built target spine
 [ 99%] Built target cocosbuilder
